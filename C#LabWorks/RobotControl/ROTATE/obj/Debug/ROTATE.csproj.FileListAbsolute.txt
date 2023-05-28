@@ -1,0 +1,47 @@
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE\ROTATE\bin\Debug\ROTATE.exe.config
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE\ROTATE\bin\Debug\ROTATE.exe
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE\ROTATE\bin\Debug\ROTATE.pdb
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE\ROTATE\obj\Debug\ROTATE.Form1.resources
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE\ROTATE\obj\Debug\ROTATE.Properties.Resources.resources
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE\ROTATE\obj\Debug\ROTATE.csproj.GenerateResource.Cache
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE\ROTATE\obj\Debug\ROTATE.exe
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE\ROTATE\obj\Debug\ROTATE.pdb
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE\ROTATE\obj\Debug\ROTATE.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия\ROTATE\bin\Debug\ROTATE.exe.config
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия\ROTATE\obj\Debug\ROTATE.exe
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия\ROTATE\obj\Debug\ROTATE.pdb
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия\ROTATE\bin\Debug\ROTATE.exe
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия\ROTATE\bin\Debug\ROTATE.pdb
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия\ROTATE\obj\Debug\ROTATE.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия\ROTATE\obj\Debug\ROTATE.Form1.resources
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия\ROTATE\obj\Debug\ROTATE.Properties.Resources.resources
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия\ROTATE\obj\Debug\ROTATE.csproj.GenerateResource.Cache
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия — копия\ROTATE\bin\Debug\ROTATE.exe.config
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия — копия\ROTATE\obj\Debug\ROTATE.exe
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия — копия\ROTATE\obj\Debug\ROTATE.pdb
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия — копия\ROTATE\bin\Debug\ROTATE.exe
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия — копия\ROTATE\bin\Debug\ROTATE.pdb
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия — копия\ROTATE\obj\Debug\ROTATE.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия — копия\ROTATE\obj\Debug\ROTATE.Form1.resources
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия — копия\ROTATE\obj\Debug\ROTATE.Properties.Resources.resources
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\ROTATE — копия — копия\ROTATE\obj\Debug\ROTATE.csproj.GenerateResource.Cache
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\bin\Debug\ROTATE.exe.config
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\obj\Debug\ROTATE.exe
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\obj\Debug\ROTATE.pdb
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\bin\Debug\ROTATE.exe
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\bin\Debug\ROTATE.pdb
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\obj\Debug\ROTATE.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\obj\Debug\ROTATE.Form1.resources
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\obj\Debug\ROTATE.Properties.Resources.resources
+C:\Users\ishih\Desktop\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\obj\Debug\ROTATE.csproj.GenerateResource.Cache
+D:\Егор\Учеба\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\bin\Debug\ROTATE.exe.config
+D:\Егор\Учеба\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\bin\Debug\ROTATE.exe
+D:\Егор\Учеба\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\bin\Debug\ROTATE.pdb
+D:\Егор\Учеба\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\obj\Debug\ROTATE.csproj.AssemblyReference.cache
+D:\Егор\Учеба\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\obj\Debug\ROTATE.csproj.SuggestedBindingRedirects.cache
+D:\Егор\Учеба\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\obj\Debug\ROTATE.Form1.resources
+D:\Егор\Учеба\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\obj\Debug\ROTATE.Properties.Resources.resources
+D:\Егор\Учеба\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\obj\Debug\ROTATE.csproj.GenerateResource.cache
+D:\Егор\Учеба\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\obj\Debug\ROTATE.csproj.CoreCompileInputs.cache
+D:\Егор\Учеба\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\obj\Debug\ROTATE.exe
+D:\Егор\Учеба\ТиИОСАиУ(Клековкин)\Приложение управления роботом\Finaly\ROTATE\obj\Debug\ROTATE.pdb
