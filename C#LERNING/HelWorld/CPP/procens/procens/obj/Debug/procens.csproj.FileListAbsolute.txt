@@ -1,0 +1,6 @@
+C:\Users\ishih\Desktop\C#LERNING\HelWorld\CPP\procens\procens\bin\Debug\procens.exe.config
+C:\Users\ishih\Desktop\C#LERNING\HelWorld\CPP\procens\procens\bin\Debug\procens.exe
+C:\Users\ishih\Desktop\C#LERNING\HelWorld\CPP\procens\procens\bin\Debug\procens.pdb
+C:\Users\ishih\Desktop\C#LERNING\HelWorld\CPP\procens\procens\obj\Debug\procens.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\HelWorld\CPP\procens\procens\obj\Debug\procens.exe
+C:\Users\ishih\Desktop\C#LERNING\HelWorld\CPP\procens\procens\obj\Debug\procens.pdb

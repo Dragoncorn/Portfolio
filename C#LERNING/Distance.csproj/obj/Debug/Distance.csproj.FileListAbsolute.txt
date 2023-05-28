@@ -1,0 +1,7 @@
+C:\Users\ishih\Desktop\C#LERNING\Distance.csproj\bin\Debug\Distance.exe.config
+C:\Users\ishih\Desktop\C#LERNING\Distance.csproj\bin\Debug\Distance.exe
+C:\Users\ishih\Desktop\C#LERNING\Distance.csproj\bin\Debug\Distance.pdb
+C:\Users\ishih\Desktop\C#LERNING\Distance.csproj\bin\Debug\TestingRoom.dll
+C:\Users\ishih\Desktop\C#LERNING\Distance.csproj\obj\Debug\Distance.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\Distance.csproj\obj\Debug\Distance.exe
+C:\Users\ishih\Desktop\C#LERNING\Distance.csproj\obj\Debug\Distance.pdb

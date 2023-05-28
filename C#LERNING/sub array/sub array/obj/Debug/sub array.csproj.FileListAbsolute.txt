@@ -1,0 +1,6 @@
+C:\Users\ishih\Desktop\C#LERNING\sub array\sub array\bin\Debug\sub array.exe.config
+C:\Users\ishih\Desktop\C#LERNING\sub array\sub array\bin\Debug\sub array.exe
+C:\Users\ishih\Desktop\C#LERNING\sub array\sub array\bin\Debug\sub array.pdb
+C:\Users\ishih\Desktop\C#LERNING\sub array\sub array\obj\Debug\sub array.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\sub array\sub array\obj\Debug\sub array.exe
+C:\Users\ishih\Desktop\C#LERNING\sub array\sub array\obj\Debug\sub array.pdb

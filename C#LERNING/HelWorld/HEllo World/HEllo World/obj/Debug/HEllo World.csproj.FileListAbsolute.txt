@@ -1,0 +1,6 @@
+C:\Users\ishih\Desktop\C#LERNING\HelWorld\HEllo World\HEllo World\bin\Debug\HEllo World.exe.config
+C:\Users\ishih\Desktop\C#LERNING\HelWorld\HEllo World\HEllo World\bin\Debug\HEllo World.exe
+C:\Users\ishih\Desktop\C#LERNING\HelWorld\HEllo World\HEllo World\bin\Debug\HEllo World.pdb
+C:\Users\ishih\Desktop\C#LERNING\HelWorld\HEllo World\HEllo World\obj\Debug\HEllo World.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\HelWorld\HEllo World\HEllo World\obj\Debug\HEllo World.exe
+C:\Users\ishih\Desktop\C#LERNING\HelWorld\HEllo World\HEllo World\obj\Debug\HEllo World.pdb

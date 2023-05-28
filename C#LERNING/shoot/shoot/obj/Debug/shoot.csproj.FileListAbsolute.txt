@@ -1,0 +1,6 @@
+C:\Users\ishih\Desktop\C#LERNING\shoot\shoot\bin\Debug\shoot.exe.config
+C:\Users\ishih\Desktop\C#LERNING\shoot\shoot\bin\Debug\shoot.exe
+C:\Users\ishih\Desktop\C#LERNING\shoot\shoot\bin\Debug\shoot.pdb
+C:\Users\ishih\Desktop\C#LERNING\shoot\shoot\obj\Debug\shoot.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\shoot\shoot\obj\Debug\shoot.exe
+C:\Users\ishih\Desktop\C#LERNING\shoot\shoot\obj\Debug\shoot.pdb

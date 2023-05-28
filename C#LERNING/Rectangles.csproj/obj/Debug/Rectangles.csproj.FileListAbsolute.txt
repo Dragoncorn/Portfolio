@@ -1,0 +1,7 @@
+C:\Users\ishih\Desktop\C#LERNING\Rectangles.csproj\bin\Debug\Rectangles.exe.config
+C:\Users\ishih\Desktop\C#LERNING\Rectangles.csproj\bin\Debug\Rectangles.exe
+C:\Users\ishih\Desktop\C#LERNING\Rectangles.csproj\bin\Debug\Rectangles.pdb
+C:\Users\ishih\Desktop\C#LERNING\Rectangles.csproj\bin\Debug\TestingRoom.dll
+C:\Users\ishih\Desktop\C#LERNING\Rectangles.csproj\obj\Debug\Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\Rectangles.csproj\obj\Debug\Rectangles.exe
+C:\Users\ishih\Desktop\C#LERNING\Rectangles.csproj\obj\Debug\Rectangles.pdb

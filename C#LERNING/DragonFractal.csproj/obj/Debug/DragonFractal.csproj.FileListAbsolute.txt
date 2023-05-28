@@ -1,0 +1,6 @@
+C:\Users\ishih\Desktop\C#LERNING\DragonFractal.csproj\bin\Debug\DragonFractal.exe.config
+C:\Users\ishih\Desktop\C#LERNING\DragonFractal.csproj\bin\Debug\DragonFractal.exe
+C:\Users\ishih\Desktop\C#LERNING\DragonFractal.csproj\bin\Debug\DragonFractal.pdb
+C:\Users\ishih\Desktop\C#LERNING\DragonFractal.csproj\obj\Debug\DragonFractal.exe
+C:\Users\ishih\Desktop\C#LERNING\DragonFractal.csproj\obj\Debug\DragonFractal.pdb
+C:\Users\ishih\Desktop\C#LERNING\DragonFractal.csproj\obj\Debug\DragonFractal.csprojResolveAssemblyReference.cache

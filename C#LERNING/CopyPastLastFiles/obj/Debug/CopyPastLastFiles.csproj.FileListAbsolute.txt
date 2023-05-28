@@ -1,0 +1,8 @@
+C:\Users\ishih\Desktop\C#LERNING\CopyPastLastFiles\bin\Debug\CopyPastLastFiles.exe.config
+C:\Users\ishih\Desktop\C#LERNING\CopyPastLastFiles\bin\Debug\CopyPastLastFiles.exe
+C:\Users\ishih\Desktop\C#LERNING\CopyPastLastFiles\bin\Debug\CopyPastLastFiles.pdb
+C:\Users\ishih\Desktop\C#LERNING\CopyPastLastFiles\obj\Debug\CopyPastLastFiles.csproj.AssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\CopyPastLastFiles\obj\Debug\CopyPastLastFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\ishih\Desktop\C#LERNING\CopyPastLastFiles\obj\Debug\CopyPastLastFiles.csproj.CoreCompileInputs.cache
+C:\Users\ishih\Desktop\C#LERNING\CopyPastLastFiles\obj\Debug\CopyPastLastFiles.exe
+C:\Users\ishih\Desktop\C#LERNING\CopyPastLastFiles\obj\Debug\CopyPastLastFiles.pdb

@@ -1,0 +1,8 @@
+C:\Users\ishih\Desktop\C#LERNING\Cross-circle\Cross-circle\bin\Debug\Cross-circle.exe.config
+C:\Users\ishih\Desktop\C#LERNING\Cross-circle\Cross-circle\bin\Debug\Cross-circle.exe
+C:\Users\ishih\Desktop\C#LERNING\Cross-circle\Cross-circle\bin\Debug\Cross-circle.pdb
+C:\Users\ishih\Desktop\C#LERNING\Cross-circle\Cross-circle\obj\Debug\Cross-circle.exe
+C:\Users\ishih\Desktop\C#LERNING\Cross-circle\Cross-circle\obj\Debug\Cross-circle.pdb
+C:\Users\ishih\Desktop\C#LERNING\Cross-circle\Cross-circle\obj\Debug\Cross-circle.csproj.AssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\Cross-circle\Cross-circle\obj\Debug\Cross-circle.csproj.SuggestedBindingRedirects.cache
+C:\Users\ishih\Desktop\C#LERNING\Cross-circle\Cross-circle\obj\Debug\Cross-circle.csproj.CoreCompileInputs.cache

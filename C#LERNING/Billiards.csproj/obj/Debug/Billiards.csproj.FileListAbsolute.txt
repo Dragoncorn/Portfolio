@@ -1,0 +1,7 @@
+C:\Users\ishih\Desktop\C#LERNING\Billiards.csproj\bin\Debug\Billiards.exe.config
+C:\Users\ishih\Desktop\C#LERNING\Billiards.csproj\bin\Debug\Billiards.exe
+C:\Users\ishih\Desktop\C#LERNING\Billiards.csproj\bin\Debug\Billiards.pdb
+C:\Users\ishih\Desktop\C#LERNING\Billiards.csproj\bin\Debug\TestingRoom.dll
+C:\Users\ishih\Desktop\C#LERNING\Billiards.csproj\obj\Debug\Billiards.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\Billiards.csproj\obj\Debug\Billiards.exe
+C:\Users\ishih\Desktop\C#LERNING\Billiards.csproj\obj\Debug\Billiards.pdb

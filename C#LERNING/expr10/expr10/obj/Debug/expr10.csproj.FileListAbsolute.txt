@@ -1,0 +1,6 @@
+C:\Users\ishih\Desktop\C#LERNING\expr10\expr10\bin\Debug\expr10.exe.config
+C:\Users\ishih\Desktop\C#LERNING\expr10\expr10\bin\Debug\expr10.exe
+C:\Users\ishih\Desktop\C#LERNING\expr10\expr10\bin\Debug\expr10.pdb
+C:\Users\ishih\Desktop\C#LERNING\expr10\expr10\obj\Debug\expr10.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\expr10\expr10\obj\Debug\expr10.exe
+C:\Users\ishih\Desktop\C#LERNING\expr10\expr10\obj\Debug\expr10.pdb

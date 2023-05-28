@@ -1,0 +1,6 @@
+C:\Users\ishih\Desktop\C#LERNING\Tiket\Tiket\bin\Debug\Tiket.exe.config
+C:\Users\ishih\Desktop\C#LERNING\Tiket\Tiket\bin\Debug\Tiket.exe
+C:\Users\ishih\Desktop\C#LERNING\Tiket\Tiket\bin\Debug\Tiket.pdb
+C:\Users\ishih\Desktop\C#LERNING\Tiket\Tiket\obj\Debug\Tiket.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\Tiket\Tiket\obj\Debug\Tiket.exe
+C:\Users\ishih\Desktop\C#LERNING\Tiket\Tiket\obj\Debug\Tiket.pdb

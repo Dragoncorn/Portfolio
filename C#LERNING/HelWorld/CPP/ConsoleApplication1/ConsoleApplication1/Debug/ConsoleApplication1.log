@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+c:\users\ishih\desktop\c#lerning\helworld\cpp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(1): warning C4627: #include "myheader.h": пропущен при поиске использования предкомпилированного заголовка
+  c:\users\ishih\desktop\c#lerning\helworld\cpp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(1): note: Добавление директивы в "stdafx.h" или перестройка предкомпилированного заголовка
+c:\users\ishih\desktop\c#lerning\helworld\cpp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(14): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.

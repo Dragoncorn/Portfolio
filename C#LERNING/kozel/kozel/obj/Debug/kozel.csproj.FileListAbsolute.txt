@@ -1,0 +1,6 @@
+C:\Users\ishih\Desktop\C#LERNING\kozel\kozel\bin\Debug\kozel.exe.config
+C:\Users\ishih\Desktop\C#LERNING\kozel\kozel\bin\Debug\kozel.exe
+C:\Users\ishih\Desktop\C#LERNING\kozel\kozel\bin\Debug\kozel.pdb
+C:\Users\ishih\Desktop\C#LERNING\kozel\kozel\obj\Debug\kozel.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\kozel\kozel\obj\Debug\kozel.exe
+C:\Users\ishih\Desktop\C#LERNING\kozel\kozel\obj\Debug\kozel.pdb

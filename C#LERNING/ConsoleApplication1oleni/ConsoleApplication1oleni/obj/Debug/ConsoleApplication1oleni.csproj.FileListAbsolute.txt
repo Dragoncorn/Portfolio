@@ -1,0 +1,6 @@
+C:\Users\ishih\Desktop\C#LERNING\ConsoleApplication1oleni\ConsoleApplication1oleni\bin\Debug\ConsoleApplication1oleni.exe.config
+C:\Users\ishih\Desktop\C#LERNING\ConsoleApplication1oleni\ConsoleApplication1oleni\bin\Debug\ConsoleApplication1oleni.exe
+C:\Users\ishih\Desktop\C#LERNING\ConsoleApplication1oleni\ConsoleApplication1oleni\bin\Debug\ConsoleApplication1oleni.pdb
+C:\Users\ishih\Desktop\C#LERNING\ConsoleApplication1oleni\ConsoleApplication1oleni\obj\Debug\ConsoleApplication1oleni.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\ConsoleApplication1oleni\ConsoleApplication1oleni\obj\Debug\ConsoleApplication1oleni.exe
+C:\Users\ishih\Desktop\C#LERNING\ConsoleApplication1oleni\ConsoleApplication1oleni\obj\Debug\ConsoleApplication1oleni.pdb

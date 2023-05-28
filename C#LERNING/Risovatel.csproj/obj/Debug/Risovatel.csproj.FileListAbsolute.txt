@@ -1,0 +1,9 @@
+C:\Users\ishih\Desktop\C#LERNING\Risovatel.csproj\bin\Debug\RefactorMe.exe.config
+C:\Users\ishih\Desktop\C#LERNING\Risovatel.csproj\bin\Debug\RefactorMe.exe
+C:\Users\ishih\Desktop\C#LERNING\Risovatel.csproj\bin\Debug\RefactorMe.pdb
+C:\Users\ishih\Desktop\C#LERNING\Risovatel.csproj\bin\Debug\nunit.framework.dll
+C:\Users\ishih\Desktop\C#LERNING\Risovatel.csproj\obj\Debug\Risovatel.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\Risovatel.csproj\obj\Debug\RefactorMe.Properties.Resources.resources
+C:\Users\ishih\Desktop\C#LERNING\Risovatel.csproj\obj\Debug\Risovatel.csproj.GenerateResource.Cache
+C:\Users\ishih\Desktop\C#LERNING\Risovatel.csproj\obj\Debug\RefactorMe.exe
+C:\Users\ishih\Desktop\C#LERNING\Risovatel.csproj\obj\Debug\RefactorMe.pdb

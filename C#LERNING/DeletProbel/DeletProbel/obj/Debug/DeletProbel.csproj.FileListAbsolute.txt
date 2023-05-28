@@ -1,0 +1,6 @@
+C:\Users\ishih\Desktop\C#LERNING\DeletProbel\DeletProbel\bin\Debug\DeletProbel.exe.config
+C:\Users\ishih\Desktop\C#LERNING\DeletProbel\DeletProbel\bin\Debug\DeletProbel.exe
+C:\Users\ishih\Desktop\C#LERNING\DeletProbel\DeletProbel\bin\Debug\DeletProbel.pdb
+C:\Users\ishih\Desktop\C#LERNING\DeletProbel\DeletProbel\obj\Debug\DeletProbel.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\DeletProbel\DeletProbel\obj\Debug\DeletProbel.exe
+C:\Users\ishih\Desktop\C#LERNING\DeletProbel\DeletProbel\obj\Debug\DeletProbel.pdb

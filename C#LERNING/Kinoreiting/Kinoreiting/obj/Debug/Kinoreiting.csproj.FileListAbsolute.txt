@@ -1,0 +1,6 @@
+C:\Users\ishih\Desktop\C#LERNING\Kinoreiting\Kinoreiting\bin\Debug\Kinoreiting.exe.config
+C:\Users\ishih\Desktop\C#LERNING\Kinoreiting\Kinoreiting\bin\Debug\Kinoreiting.exe
+C:\Users\ishih\Desktop\C#LERNING\Kinoreiting\Kinoreiting\bin\Debug\Kinoreiting.pdb
+C:\Users\ishih\Desktop\C#LERNING\Kinoreiting\Kinoreiting\obj\Debug\Kinoreiting.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\Kinoreiting\Kinoreiting\obj\Debug\Kinoreiting.exe
+C:\Users\ishih\Desktop\C#LERNING\Kinoreiting\Kinoreiting\obj\Debug\Kinoreiting.pdb

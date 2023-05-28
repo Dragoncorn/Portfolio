@@ -1,0 +1,6 @@
+C:\Users\ishih\Desktop\C#LERNING\Shahmots\Shahmots\bin\Debug\Shahmots.exe.config
+C:\Users\ishih\Desktop\C#LERNING\Shahmots\Shahmots\bin\Debug\Shahmots.exe
+C:\Users\ishih\Desktop\C#LERNING\Shahmots\Shahmots\bin\Debug\Shahmots.pdb
+C:\Users\ishih\Desktop\C#LERNING\Shahmots\Shahmots\obj\Debug\Shahmots.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\Shahmots\Shahmots\obj\Debug\Shahmots.exe
+C:\Users\ishih\Desktop\C#LERNING\Shahmots\Shahmots\obj\Debug\Shahmots.pdb

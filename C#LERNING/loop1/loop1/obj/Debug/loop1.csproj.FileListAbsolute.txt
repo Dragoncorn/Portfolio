@@ -1,0 +1,6 @@
+C:\Users\ishih\Desktop\C#LERNING\loop1\loop1\bin\Debug\loop1.exe.config
+C:\Users\ishih\Desktop\C#LERNING\loop1\loop1\bin\Debug\loop1.exe
+C:\Users\ishih\Desktop\C#LERNING\loop1\loop1\bin\Debug\loop1.pdb
+C:\Users\ishih\Desktop\C#LERNING\loop1\loop1\obj\Debug\loop1.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\loop1\loop1\obj\Debug\loop1.exe
+C:\Users\ishih\Desktop\C#LERNING\loop1\loop1\obj\Debug\loop1.pdb

@@ -1,0 +1,6 @@
+C:\Users\ishih\Desktop\C#LERNING\airflot\airflot\bin\Debug\airflot.exe.config
+C:\Users\ishih\Desktop\C#LERNING\airflot\airflot\bin\Debug\airflot.exe
+C:\Users\ishih\Desktop\C#LERNING\airflot\airflot\bin\Debug\airflot.pdb
+C:\Users\ishih\Desktop\C#LERNING\airflot\airflot\obj\Debug\airflot.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\airflot\airflot\obj\Debug\airflot.exe
+C:\Users\ishih\Desktop\C#LERNING\airflot\airflot\obj\Debug\airflot.pdb

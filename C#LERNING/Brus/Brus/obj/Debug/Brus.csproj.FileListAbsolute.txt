@@ -1,0 +1,6 @@
+C:\Users\ishih\Desktop\C#LERNING\Brus\Brus\bin\Debug\Brus.exe.config
+C:\Users\ishih\Desktop\C#LERNING\Brus\Brus\bin\Debug\Brus.exe
+C:\Users\ishih\Desktop\C#LERNING\Brus\Brus\bin\Debug\Brus.pdb
+C:\Users\ishih\Desktop\C#LERNING\Brus\Brus\obj\Debug\Brus.csprojResolveAssemblyReference.cache
+C:\Users\ishih\Desktop\C#LERNING\Brus\Brus\obj\Debug\Brus.exe
+C:\Users\ishih\Desktop\C#LERNING\Brus\Brus\obj\Debug\Brus.pdb
