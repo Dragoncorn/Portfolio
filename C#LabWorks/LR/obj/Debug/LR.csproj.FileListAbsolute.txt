@@ -1,0 +1,22 @@
+C:\Users\ishih\Desktop\ПСдНРиОЭД\LR\bin\Debug\LR.exe.config
+C:\Users\ishih\Desktop\ПСдНРиОЭД\LR\bin\Debug\LR.exe
+C:\Users\ishih\Desktop\ПСдНРиОЭД\LR\bin\Debug\LR.pdb
+C:\Users\ishih\Desktop\ПСдНРиОЭД\LR\obj\Debug\LR.csproj.AssemblyReference.cache
+C:\Users\ishih\Desktop\ПСдНРиОЭД\LR\obj\Debug\LR.csproj.SuggestedBindingRedirects.cache
+C:\Users\ishih\Desktop\ПСдНРиОЭД\LR\obj\Debug\LR.Form1.resources
+C:\Users\ishih\Desktop\ПСдНРиОЭД\LR\obj\Debug\LR.Properties.Resources.resources
+C:\Users\ishih\Desktop\ПСдНРиОЭД\LR\obj\Debug\LR.csproj.GenerateResource.cache
+C:\Users\ishih\Desktop\ПСдНРиОЭД\LR\obj\Debug\LR.csproj.CoreCompileInputs.cache
+C:\Users\ishih\Desktop\ПСдНРиОЭД\LR\obj\Debug\LR.exe
+C:\Users\ishih\Desktop\ПСдНРиОЭД\LR\obj\Debug\LR.pdb
+D:\Егор\Учеба\Мага 3 сем\ПСдНРиОЭД\LR\bin\Debug\LR.exe.config
+D:\Егор\Учеба\Мага 3 сем\ПСдНРиОЭД\LR\bin\Debug\LR.exe
+D:\Егор\Учеба\Мага 3 сем\ПСдНРиОЭД\LR\bin\Debug\LR.pdb
+D:\Егор\Учеба\Мага 3 сем\ПСдНРиОЭД\LR\obj\Debug\LR.csproj.AssemblyReference.cache
+D:\Егор\Учеба\Мага 3 сем\ПСдНРиОЭД\LR\obj\Debug\LR.csproj.SuggestedBindingRedirects.cache
+D:\Егор\Учеба\Мага 3 сем\ПСдНРиОЭД\LR\obj\Debug\LR.Form1.resources
+D:\Егор\Учеба\Мага 3 сем\ПСдНРиОЭД\LR\obj\Debug\LR.Properties.Resources.resources
+D:\Егор\Учеба\Мага 3 сем\ПСдНРиОЭД\LR\obj\Debug\LR.csproj.GenerateResource.cache
+D:\Егор\Учеба\Мага 3 сем\ПСдНРиОЭД\LR\obj\Debug\LR.csproj.CoreCompileInputs.cache
+D:\Егор\Учеба\Мага 3 сем\ПСдНРиОЭД\LR\obj\Debug\LR.exe
+D:\Егор\Учеба\Мага 3 сем\ПСдНРиОЭД\LR\obj\Debug\LR.pdb
